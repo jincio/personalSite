@@ -3,50 +3,50 @@ bio: My research interests include distributed robotics, mobile computing and pr
   matter.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Political Science
+    institution: University of Pittsburgh
+    year: 2022
+  - course: Ms in Arts - Political Science
+    institution: University of Pittsburgh
+    year: 2018
+  - course: BSc & Lic Political Science
+    institution: Pontificia Universidad Católica del Perú
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Subnational Politics
+- Democracy
+- Representation
+- Political Methodology
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: University of Pittsburgh
+  url: https://www.pitt.edu/
+role: Ph.D (c) Political Science
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
-- display:
-    header: true
-  icon: twitter
+  link: '/#contact'
+- icon: twitter
   icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
+  link: https://twitter.com/jlincio
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=XaJuxzwAAAAJ&hl=es
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/jincio
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/jose-incio-371a76b/
 superuser: true
-title: Nelson Bighetti
+title: José Incio
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi and welcome! I’m a Ph.D Candidate at the University of Pittsburgh. My current research interests are, broadly: subnational politics, democracy, political methodology, local resource curse, elites, and bureaucracy. I published in Comparative Politics Study, and Peer-reviwed journals in Latin America such as RCP (Scopus Q1). 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am from Peru, were I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+My dissertation focuses on the effect of subnational authoritarian enclaves on national democracies in Latin America.
+
+{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1X5DmbRNr1wLxTbV1-DCqMmPj8fAB1B2K/view" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1X5DmbRNr1wLxTbV1-DCqMmPj8fAB1B2K/view" "newtab" >}}Español{{< /staticref >}}

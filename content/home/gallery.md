@@ -4,7 +4,7 @@
 widget: blank
 
 # This file represents a page section.
-headless: true
+headless: false
 
 # Order that this section appears on the page.
 weight: 66
@@ -14,6 +14,7 @@ subtitle:
 
 design:
   columns: '2'
+active: false
 ---
 
 {{< gallery album="themes" >}}

@@ -2,7 +2,7 @@
 title: "Thousands of Peruvians are protesting the government’s rapid turnovers"
 authors:
 - admin
-date: "2020-07-01T00:00:00Z"
+date: "2020-11-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -15,16 +15,17 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Washington Post (Monkey-Cage)*
+publication: In *The Washington Post (Monkey-Cage)*
 publication_short: "*WP*"
 
 abstract: "In Peru, an unprecedented political crisis has unfolded quickly in the midst of rising death tolls and widespread economic damage from the coronavirus pandemic. On Nov. 9, 80 percent of the Peruvian Congress voted to oust President Martín Vizcarra for alleged corruption. Congressional Speaker Manuel Merino became interim president on Nov. 10."
 
 # Summary. An optional shortened abstract.
-summary:  Op-ed in Washington Post (Monkey Cage)
+summary:  Op-ed in the Washington Post (Monkey Cage)
 
 tags:
 - Opinion
+- Op-ed
 featured: true
 
 links:

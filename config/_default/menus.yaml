@@ -23,7 +23,7 @@ main:
     url: 'workingpaper'
     weight: 15
   - name: Media
-    url: 'media'
+    url: 'media2'
     weight: 29
 #  - name: Courses
 #    url: courses/

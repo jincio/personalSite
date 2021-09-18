@@ -21,7 +21,7 @@ publication_short: "*CIPER*"
 abstract: "En las pasadas elecciones parlamentarias en Perú emergió como tercera fuerza política el FREPAP, un partido ligado a la Asociación Evangélica de la Misión Israelita del Nuevo Pacto Universal. El cientista político peruano José Incio explica que pese a su origen confesional, no se alinea con las fuerzas que irrumpieron en el referéndum Colombiano o en las elecciones brasileñas (ejemplos que podrían repetirse en Chile, según algunos analistas). Quienes luchan contra el enfoque de género o la despenalización del aborto fueron “duramente golpeados” en Perú, explica."
 
 # Summary. An optional shortened abstract.
-summary:  Op-ed CIPER
+summary:  Op-ed CIPER (Chile)
 
 tags:
 - Opinion

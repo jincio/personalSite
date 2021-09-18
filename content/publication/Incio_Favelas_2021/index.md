@@ -1,5 +1,9 @@
 ---
 title: "From Drug Lords to Police State:The Effects of Order Transition on Local Economies (forthcoming)"
+author_notes:
+- ''
+- ''
+- Author names are in alphabetical order
 authors:
 - Leonardo Gentil-Fernandes
 - Jõao V. Guedes-Neto

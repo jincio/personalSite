@@ -16,7 +16,7 @@ content:
   # Page type to display. E.g. post, talk, publication...
   page_type: media
   # Choose how many pages you would like to display (0 = all pages)
-  count: 3
+  count: 2
   # Filter on criteria
   filters:
     author: ""
@@ -34,3 +34,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+{{% callout note %}}
+More media content [here](./media2/).
+{{% /callout %}}

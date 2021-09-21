@@ -43,7 +43,7 @@ superuser: true
 title: José Incio
 ---
 
-Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My current research interests are, broadly: subnational politics, democracy, political methodology, local resource curse, elites, and bureaucracy. I have  published in Comparative Politics Study, and Peer-reviwed journals in Latin America such as RCP (Scopus Q1). I am from Peru, were I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
+Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My current research interests are, broadly: subnational politics, democracy, political methodology, local resource curse, elites, and bureaucracy. I have  published in Comparative Politics Studies, and Peer-reviwed journals in Latin America such as RCP (Scopus Q1). I am from Peru, were I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
 
 My dissertation focuses on the effect of subnational authoritarian enclaves on national democracies in Latin America. I am currently in the Job Market looking for an academic/research position.
 

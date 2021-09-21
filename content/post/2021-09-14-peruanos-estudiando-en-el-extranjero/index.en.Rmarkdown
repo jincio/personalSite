@@ -63,8 +63,7 @@ data1<-rio::import("~/Google Drive/Proyectos/peruanosextranjero.xlsx")
 
 ```{r, echo=FALSE, include=FALSE}
 ## Eliminando personas que 
-data1<-data1%>%filter(!`Nombre y Apellidos`%in%c("Marieliv Flores Villalobos","Luis Gómez Villavicencio","Denisse Rodriguez Olivari"))%>%filter(Email!="rscottin@ucsd.edu")
-
+data1<-data1%>%filter(!`Nombre y Apellidos`%in%c("Marieliv Flores Villalobos","Luis Gómez Villavicencio","Denisse Rodriguez Olivari","Diego García Olaechea"))%>%filter(Email!="rscottin@ucsd.edu")
 ```
 
 ```{r,echo=FALSE, include=FALSE}

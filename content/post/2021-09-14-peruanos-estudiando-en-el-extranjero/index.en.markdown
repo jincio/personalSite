@@ -77,31 +77,35 @@ Ver la lista en página completa  [**aquí**](http://www.joseincio.com/post/peru
 ```
 ## 
 ##                  Alemania                 Argentina                 Australia 
-##                        16                         2                         5 
+##                        18                         2                         5 
 ##                   Austria                   Bélgica                    Brasil 
-##                         1                         4                        21 
-##                    Canadá                     Chile                     China 
-##                        18                         5                         1 
-##                  Colombia             Corea del Sur                 Dinamarca 
-##                         3                         3                         1 
-##                   EE. UU.                      EEUU                   Escocia 
-##                         1                       122                         1 
+##                         1                         4                        22 
+##                    BRASIL                    Canadá                     Chile 
+##                         1                        18                         5 
+##                     China                  Colombia             Corea del Sur 
+##                         2                         3                         3 
+##                COSTA RICA                 Dinamarca                   EE. UU. 
+##                         1                         1                         1 
+##                      EEUU                   Escocia                    españa 
+##                       127                         1                         1 
 ##                    España                   Francia                   Holanda 
-##                        32                        18                        10 
+##                        35                        18                        10 
 ##                 Hong Kong                   Hungría                     India 
 ##                         1                         2                         1 
-##                Inglaterra                   Irlanda                    Italia 
-##                         6                         2                         1 
-##                     Japon                    Mexico                     Multi 
-##                         4                         6                         2 
-##                   Noruega             Nueva Zelanda Países Bajos / Inglaterra 
+##       Ingeniería Mecánica                Inglaterra                   Irlanda 
+##                         1                         6                         2 
+##                    Italia                     Japon                    Mexico 
+##                         2                         5                         6 
+##                     Multi                   Noruega             Nueva Zelanda 
+##                         2                         1                         1 
+## Países Bajos / Inglaterra                      Perù                  Portugal 
 ##                         1                         1                         1 
-##                      Perù                  Portugal               Reino Unido 
-##                         1                         1                        27 
-##          Reino Unido (UK)              Reinod Unido                 Singapore 
-##                         1                         1                         1 
-##                    Suecia                     Suiza            UK Reino Unido 
-##                         2                         5                         1
+##             RAE Hong Kong               Reino Unido          Reino Unido (UK) 
+##                         1                        29                         1 
+##              Reinod Unido                 Singapore                    Suecia 
+##                         1                         1                         3 
+##                     Suiza            UK Reino Unido 
+##                         5                         1
 ```
 
 
@@ -111,5 +115,5 @@ Cualquier duda o comentario a: jincio@gmail.com
 
 
 ```
-## [1] "2021-09-14 23:36:52 CDT"
+## [1] "2021-09-21 11:49:02 EDT"
 ```

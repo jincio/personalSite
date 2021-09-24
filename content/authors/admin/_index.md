@@ -45,6 +45,6 @@ title: José Incio
 
 Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My dissertation focuses on the effect of subnational authoritarian enclaves on national democracies in Latin America. I am currently on the job market looking for an academic/research position.
 
-I have  published in *Comparative Politics Studies*, and peer-reviwed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru, where I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
+I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru, where I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
 
 {{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1X5DmbRNr1wLxTbV1-DCqMmPj8fAB1B2K/view" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1X5DmbRNr1wLxTbV1-DCqMmPj8fAB1B2K/view" "newtab" >}}Español{{< /staticref >}}

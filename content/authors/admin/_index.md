@@ -43,7 +43,7 @@ superuser: true
 title: José Incio
 ---
 
-Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My dissertation focuses on the effect of subnational authoritarian enclaves on national democracies in Latin America. I am currently on the job market looking for an academic/research position.
+Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My dissertation explores the causes and consequences of candidates with low democratic commitment on developing democracies. I am currently on the job market looking for an academic/research position.
 
 I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru, where I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
 

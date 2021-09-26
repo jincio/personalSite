@@ -8,12 +8,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Media
+title: Posts&Media
 subtitle: ''
-url: media
+url: post
 content:
   # Page type to display. E.g. project.
-  page_type: media
+  page_type: post
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
@@ -40,7 +40,7 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 3
+  view: 1
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false

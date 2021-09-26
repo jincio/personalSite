@@ -24,6 +24,9 @@ tags:
 - Subnational
 - Peru
 title: "Imperfect Recall: The Politics of Subnational Office Removals"
+links:
+- name: PDFree
+  url: https://drive.google.com/file/d/1-3ZOFoQZkpYO1vv1_1L2JP6mbw8Y-gRn/view?usp=sharing
 url_code: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/EZNWCL"
 url_dataset: ""
 url_pdf: https://doi.org/10.1177/0010414018797939
@@ -31,4 +34,5 @@ url_poster: ""
 url_project: ""
 url_source: ""
 url_video: ""
+
 ---

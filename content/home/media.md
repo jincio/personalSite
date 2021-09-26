@@ -9,12 +9,12 @@ headless: true
 # Order that this section appears on the page.
 weight: 59
 
-title: Featured Media
+title: Featured Media/Posts
 subtitle: ""
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: media
+  page_type: post
   # Choose how many pages you would like to display (0 = all pages)
   count: 2
   # Filter on criteria
@@ -34,7 +34,3 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
-{{% callout note %}}
-More media content [here](./media2/).
-{{% /callout %}}

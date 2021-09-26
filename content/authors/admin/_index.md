@@ -22,7 +22,7 @@ interests:
 organizations:
 - name: University of Pittsburgh
   url: https://www.pitt.edu/
-role: Ph.D (c) Political Science
+role: Ph.D candidate Political Science
 social:
 - icon: envelope
   icon_pack: fas

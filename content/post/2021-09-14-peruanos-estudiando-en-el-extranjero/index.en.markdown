@@ -10,7 +10,7 @@ subtitle: ''
 summary: ''
 authors: []
 lastmod: '2021-09-14T19:25:59-05:00'
-featured: yes
+featured: no
 image:
   caption: ''
   focal_point: ''
@@ -71,7 +71,7 @@ Dale click a la imagen y te lleva a la lista completa.
 Ver la lista en página completa  [**aquí**](http://www.joseincio.com/post/peruanos-estudiando-en-el-extranjero/ts.html)
 [**aquí**](http://www.joseincio.com/post/peruanos-estudiando-en-el-extranjero/ts.html)
 
-## Agrupados por país 
+## Agrupados por país
 
 
 ```

@@ -10,7 +10,7 @@ links:
   name: Follow
   url: https://twitter.com/jlincio
 #slides: example
-summary: A site with code in STATA and R for panel analysis
+summary: Panel analysis in STATA and R
 tags:
 - R
 - STATA

@@ -25,7 +25,7 @@ tags:
 title: "Why should we care what candidates tweet during a presidential campaign?(JMP)"
 #url_code: ""
 #url_dataset: ""
-#url_pdf: https://doi.org/10.1177/0010414018797939
+url_pdf: https://drive.google.com/file/d/11IOoT7_T2yFFfZsVyewRcQo8Oo3p24Jr/view?usp=sharing
 #url_poster: ""
 #url_project: ""
 #url_source: ""

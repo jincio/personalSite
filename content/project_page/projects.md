@@ -29,7 +29,7 @@ content:
   - name: R/Software
     tag: R
   - name: Activism
-    tag: NGO
+    tag: Activism
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

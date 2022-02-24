@@ -47,6 +47,6 @@ Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My disser
 
 I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru, where I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
 
-I won the National Prize Digital Democracy 2021 for the iniative [decidebien](https://joseincio.com/project/decidebien/)
+I won the National Prize Digital Democracy 2021 for the initiative [decidebien](https://joseincio.com/project/decidebien/)
 
 {{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}}Español{{< /staticref >}}

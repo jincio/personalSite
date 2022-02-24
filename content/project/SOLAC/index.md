@@ -12,7 +12,6 @@ links:
 #slides: example
 summary: A non profit organization
 tags:
-- NGO
 - Activism
 title: SOLAC
 url_code: ""
@@ -23,8 +22,7 @@ url_video: ""
 
 **SOLAC was a non profit organization that I, with other friends, created in 2004** More info below (in Spanish)
 
-SOLAC
-SOLAC es una organización de amigos, oficialmente la fundamos Juan Franciso Chávez y yo, pero fuimos muchos más: David Goodman, Joshua Eubank, Michael Quinzio, Marta Dormal, Valentina Martufi, Ruth Pollack, y muchos voluntarios que nos ayudaron en varios proyectos.
+SOLAC fue una organización de amigos, oficialmente la fundamos Juan Franciso Chávez y yo, pero fuimos muchos más: David Goodman, Joshua Eubank, Michael Quinzio, Marta Dormal, Valentina Martufi, Ruth Pollack, y muchos voluntarios que nos ayudaron en varios proyectos.
 
 - Construcción de la Biblioteca Comunitaria Alto Perú.
     - Video: https://www.youtube.com/watch?v=kADd_tocs90 Ann Swanson

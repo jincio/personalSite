@@ -2,7 +2,7 @@
 title: "Thousands of Peruvians are protesting the government’s rapid turnovers"
 author: admin
 date: '2020-11-25'
-slug: decidebien-2019
+slug:
 categories:
   - Opinion
   - Media

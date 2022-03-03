@@ -1,5 +1,5 @@
 ---
-title: "From Drug Lords to Police State:The Effects of Order Transition on Local Economies (forthcoming)"
+title: "From Drug Lords to Police State:The Effects of Order Transition on Local Economies"
 author_notes:
 - ''
 - ''
@@ -13,7 +13,7 @@ date: "2021"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-09-12T00:00:00Z"
+publishDate: "2022-02-12T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,10 +37,10 @@ tags:
 featured: True
 
 links:
-#- name: Custom Link
-#  url: http://example.org
-#url_pdf: http://arxiv.org/pdf/1512.04133v1
-#url_code: '#'
+- name: PDFree
+  url: https://drive.google.com/file/d/19Joa1ZUwI51NGzUPMDlckrTFX9qRA_n7/view?usp=sharing
+url_pdf: https://journals.sagepub.com/doi/pdf/10.1177/00104140211060273
+url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RAXSLB
 #url_dataset: '#'
 #url_poster: '#'
 #url_project: ''

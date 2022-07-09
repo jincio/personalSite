@@ -20,8 +20,8 @@ interests:
 - Representation
 - Political Methodology
 organizations:
-- name: University of Pittsburgh
-  url: https://www.pitt.edu/
+- name: Pontificia Universidad Católica del Perú
+  url: https://facultad.pucp.edu.pe/ciencias-sociales/
 role: Ph.D in Political Science
 social:
 - icon: envelope
@@ -43,9 +43,9 @@ superuser: true
 title: José Incio
 ---
 
-Hi and welcome! I am a Ph.D Candidate at the University of Pittsburgh. My dissertation explores the causes and consequences of candidates with low democratic commitment on developing democracies. 
+Hi and welcome! I am a Tenure Track professor at the Social Science department in the Pontificia Universidad Católica del Perú.
 
-I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru, where I taught classes on statistics and methodology at the Pontificia Universidad Católica, and University Antonio Ruiz de Montoya.
+I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru.
 
 I won the National Prize Digital Democracy 2021 for the initiative [decidebien](https://joseincio.com/project/decidebien/)
 

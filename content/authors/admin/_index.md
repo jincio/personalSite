@@ -43,10 +43,10 @@ superuser: true
 title: José Incio
 ---
 
-Hi and welcome! I am a Tenure Track professor at the Social Science department in the Pontificia Universidad Católica del Perú.
+Hi and welcome to my personal website! I am a Tenure Track professor at the Social Science department in the Pontificia Universidad Católica del Perú. I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America. 
 
-I have  published in *Comparative Politics Studies*, and peer-reviewed journals in Latin America such as Revista de Ciencia Política-Chile. I am from Peru.
+Hola y bienvenid@ a mi web personal. Soy profesor Tenure-Track en el Departamento de Ciencias Sociales de la Pontificia Universidad Católica del Perú. Mis artículos han sido publicado en revistas académicas como *Comparative Politics* y otros en America Latina. 
 
 I won the National Prize Digital Democracy 2021 for the initiative [decidebien](https://joseincio.com/project/decidebien/)
 
-{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}}Español{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://docs.google.com/document/d/1p8CHPG9PpqXEGaj8bW9ZaEyNQPjkHARv8TE69jOLr4g/edit" "newtab" >}}Español{{< /staticref >}}

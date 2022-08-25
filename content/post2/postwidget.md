@@ -30,6 +30,8 @@ content:
     tag: Entrevista
   - name: Op-eds
     tag: Op-ed
+  - name: R-RStudio
+    tag: R
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -20,9 +20,9 @@ url_slides: ""
 url_video: ""
 ---
 
-Esta página está dedicada a todos los que quieren aprender R. Tiene los elementos básicos. Este material lo he preparado para presentaciones/workshops, etc. Puedes navegar esta página usando el menú superior.
+Esta página (link)[https://jincio.github.io/R_tutorial/] está dedicada a todos los que quieren aprender los elementos básicos para usar R en análisis estadístico. Este material lo he preparado para presentaciones/workshops, etc. Puedes navegar esta página usando el menú superior.
 
-Si estás interesado en temas más avanzados puedes revisar otros tutoriales que he preparado aquí: http://www.joseincio.com/project/statator/
+Si estás interesado en temas más avanzados puedes revisar este otro tutorial que muestra como hacer análisis de datos panel en R y STATA: http://www.joseincio.com/project/statator/
 
 Puedes revisar mi blog, en el que también posteo sobre como usar R. http://www.joseincio.com/posts/
 

@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: My research interests include democratic backsliding, subnational politics, methodology.
 education:
   courses:
   - course: PhD in Political Science
@@ -49,4 +48,4 @@ Hola y bienvenid@ a mi web personal. Soy profesor Tenure-Track en el Departament
 
 I won the National Prize Digital Democracy 2021 for the initiative [decidebien](https://joseincio.com/project/decidebien/)
 
-{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1-8qB7oqxUg_0vyuU6Eo1l7LA3xyzr3wy/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://docs.google.com/document/d/1p8CHPG9PpqXEGaj8bW9ZaEyNQPjkHARv8TE69jOLr4g/edit" "newtab" >}}Español{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://docs.google.com/document/d/1x7Xkjyw6dHU35pHQA7wndECEd7IhGk1hePUdjrQRmiM/edit?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://docs.google.com/document/d/1p8CHPG9PpqXEGaj8bW9ZaEyNQPjkHARv8TE69jOLr4g/edit?usp=sharing" "newtab" >}}Español{{< /staticref >}}

@@ -2,7 +2,7 @@
 title: "Elecciones Generales Peruanas 2021: Fragmentación y Debilidad Democrática"
 authors:
 - admin
-date: "2022-09-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 publication_types: ["6"]
 publication: In *Elecciones 2021. Pandemia, Crísis y Representación*
 tags:

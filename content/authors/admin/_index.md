@@ -17,7 +17,7 @@ interests:
 - Subnational Politics
 - Democracy
 - Representation
-- Political Methodology
+- Methodology
 organizations:
 - name: Pontificia Universidad Católica del Perú
   url: https://facultad.pucp.edu.pe/ciencias-sociales/

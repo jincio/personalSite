@@ -8,7 +8,7 @@ authors:
 - Ignacio Mamone
 date: ""
 doi: ""
-featured: true
+featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
   focal_point: ""

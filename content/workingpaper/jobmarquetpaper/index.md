@@ -5,7 +5,7 @@ author_notes:
 - Equal contribution
 authors:
 - admin
-date: "2022-09-01T00:00:00Z"
+date: ""
 doi: ""
 featured: true
 image:
@@ -17,7 +17,7 @@ publication: ''
 publication_short: ""
 publication_types:
 - "3"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: ""
 summary: This paper aims to inform about the new challenges that our democracies are facing. In the twenty-first century, the danger to democracies does not resemble old generals and tanks taking the streets; democracies now are eroding from within. 
 tags:
 - Subnational

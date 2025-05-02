@@ -2,7 +2,6 @@
 title: "How the Perception of Corruption Shapes the Willingness to Bribe: Evidence From An Online Experiment"
 author_notes:
 - ''
-- ''
 - Author names are in alphabetical order
 authors:
 - admin

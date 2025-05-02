@@ -36,6 +36,8 @@ tags:
 featured: True
 
 links:
+- name: PDF_free
+- url: https://drive.google.com/file/d/1g8oXsmdNv4yMmnPnPzhvdpew-OsHuhPE/view?usp=sharing
 url_pdf: https://muse.jhu.edu/pub/1/article/954567
 #url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RAXSLB
 #url_dataset: '#'

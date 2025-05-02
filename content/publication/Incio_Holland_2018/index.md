@@ -23,6 +23,7 @@ summary: Why do some citizens remove the same politicians that they elected from
 tags:
 - Subnational
 - Peru
+featured: False
 title: "Imperfect Recall: The Politics of Subnational Office Removals"
 links:
 - name: PDFree
@@ -34,5 +35,4 @@ url_poster: ""
 url_project: ""
 url_source: ""
 url_video: ""
-
 ---

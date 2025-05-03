@@ -22,7 +22,7 @@ publishDate: "2025-10-07T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Democracy"
+publication: "Journal  of Democracy"
 publication_short: "JOD"
 
 abstract: The literature has focused on executive aggrandizement as the path leading to autocratization. Therefore, dysfunctional relations between the executive and legislative branches were seen as a “blessing in disguise” which prevented presidents from becoming powerful enough to cause democratic backsliding. More recently, scholars have interpreted such dysfunctionality as a problem in the form of “democratic hollowing.” Yet this may be only a transitory state of affairs. Power vacuums tend to be filled. Evidence shows that even fragmented groups in the legislative branch can concentrate power. This concentration of power defines another path to democratic backsliding via what we call legislative authoritarianism.
@@ -36,8 +36,6 @@ tags:
 featured: True
 
 links:
-- name: PDF_free
-- url: https://drive.google.com/file/d/1g8oXsmdNv4yMmnPnPzhvdpew-OsHuhPE/view?usp=sharing
 url_pdf: https://muse.jhu.edu/pub/1/article/954567
 #url_code: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/RAXSLB
 #url_dataset: '#'

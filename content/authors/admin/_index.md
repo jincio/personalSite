@@ -48,4 +48,4 @@ Hola y bienvenid@ a mi web personal. Soy profesor Tenure-Track en el Departament
 
 I won the National Prize Digital Democracy 2021 for the initiative [decidebien](https://joseincio.com/project/decidebien/)
 
-{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1UxrOtvgK902AM1uO8WVJHxQtwZ8p3W6j/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1lf5gQlRo7PViae4olpa9vk3dwJo5YdNS/view?usp=sharing" "newtab" >}}Español{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download my CV in{{< staticref "https://drive.google.com/file/d/1UxrOtvgK902AM1uO8WVJHxQtwZ8p3W6j/view?usp=sharing" "newtab" >}} English{{< /staticref >}} or {{< staticref "https://drive.google.com/file/d/1-9qHQOZmcIBgQUkJrJAXSOv4UR7KoH6g/view?usp=sharing" "newtab" >}}Español{{< /staticref >}}
